@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Timely Contacts</string>
+    <string name="select">Programmazione</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="frequency">Intervallo di chiamata</string>
+    <string name="menu_setting">Impostazioni</string>
+    <string name="menu_about">Info</string>
+    <string name="alphabet">ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="no_contacts">Nessun contatto trovato</string>
+    <string name="search_match_other">Cerca altro</string>
+    <string name="contacts_list_search_results_title">Lista Contatti Cerca \"%s\"</string>
+    <string name="no_contact_selected">Nessun contatto selezionato</string>
+    <string name="imageview_description">Miniature contatti</string>
+    <string name="switch_auto">Chiamata automatica</string>
+    <string name="switch_autosms">Sms automatico</string>
+    <string name="test">Test</string>
+    <string name="descim">Icona Timely Contacts</string>
+    <string name="noshow">Non mostrare più</string>
+    <string name="autoPhone">La chiamata automatica permette di impostare una telefonata a intervalli regolari. I costi dipendono dall\'operatore telefonico.</string>
+    <string name="autoSms">L\'opzione Sms automatico può essere impostata solo se è attiva la chiamata automatica. Dopo 5 telefonate non risposte essa manderà un sms di avviso di chiamata. I costi dipendono dall\'operatore telefonico.</string>
+    <string name="autoPhoneEnabled">Chiamata automatica abilitata</string>
+    <string name="autoPhoneDisabled">Chiamata automatica disabilitata</string>
+    <string name="autoSmsAdvice">Devi prima abilitare la chiamata automatica</string>
+    <string name="autoSmsEnabled">Sms automatico abilitato</string>
+    <string name="autoSmsDisabled">Sms automatico disabilitato</string>
+    <string name="autoDialogTitle">Attenzione</string>
+    <string name="select1group">Seleziona almeno un gruppo</string>
+    <string name="select3groups">Non puoi selezionare più di 3 gruppi</string>
+    <string name="pNumberNFound">Numero non trovato</string>
+    <string name="_5_minutes">5 minuti</string>
+    <string name="_10_minutes">10 minuti</string>
+    <string name="_30_minutes">30 minuti</string>
+    <string name="_1_hour">1 ora</string>
+    <string name="_3_hours">3 ore</string>
+    <string name="smsmessage">Ti ho chiamato il: </string>
+    <string name="cookies">Cookies</string>
+    <string name="cookiesmsg">Utilizziamo gli identificativi dei dispositivi per personalizzare i contenuti e gli annunci, fornire le funzioni dei social media e analizzare il nostro traffico. Inoltre, forniamo tali identificativi e altre informazioni relative ai dispositivi che utilizzi alle agenzie pubblicitarie, agli istituti che eseguono analisi dei dati web e ai social media nostri partner. <![CDATA[<p><a href="http://www.google.com/intl/it/policies/privacy/partners/">Visualizza dettagli</a><p>]]></string>
+    <string name="cookiescl">Chiudi</string>
+
+</resources>

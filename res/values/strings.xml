@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Timely Contacts</string>
+    <string name="select">Scheduling</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="frequency">Interval</string>
+    <string name="menu_setting">Settings</string>
+    <string name="menu_about">About</string>
+    <string name="alphabet">ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="no_contacts">No Contacts Found</string>
+    <string name="search_match_other">Matches Other Field</string>
+    <string name="contacts_list_search_results_title">Contacts List Search for \"%s\"</string>
+    <string name="no_contact_selected">No Contact Selected</string>
+    <string name="imageview_description">Contact Thumbnail</string>
+    <string name="switch_auto">Auto Phone Call</string>
+    <string name="switch_autosms">Auto Sms</string>
+    <string name="test">Test</string>
+    <string name="descim">Timely Contacts Icon</string>
+    <string name="noshow">Do not show again</string>
+    <string name="autoPhone">The Automatic Phone Call feature allows to call your contact at regular intervals . The costs depend on your carrier.</string>
+    <string name="autoSms">You can set the Automatic Sms function only if the Automatic Phone Call function
+	    is enabled. After 5 not answered phone call it sends an sms to your contact. The costs depend on your carrier.</string>
+    <string name="autoPhoneEnabled">Auto Phone Call enabled</string>
+    <string name="autoPhoneDisabled">Auto Phone Call disabled</string>
+    <string name="autoSmsAdvice">You must enable Auto Phone Call function before</string>
+    <string name="autoSmsEnabled">Auto Sms enabled</string>
+    <string name="autoSmsDisabled">Auto Sms disabled</string>
+    <string name="autoDialogTitle">Attention</string>
+    <string name="select1group">Please Select at least 1 group to display</string>
+    <string name="select3groups">You Cannot Select more than 3 groups to display</string>
+    <string name="pNumberNFound">Phone number not found</string>
+    <string name="_5_minutes">5 minutes</string>
+    <string name="_10_minutes">10 minutes</string>
+    <string name="_30_minutes">30 minutes</string>
+    <string name="_1_hour">1 hour</string>
+    <string name="_3_hours">3 hours</string>
+    <string name="smsmessage">I phoned on: </string>
+    <string name="cookies">Cookies</string>
+    <string name="cookiesmsg">We use device identifiers to personalise content and ads, to provide social media features and to analyse our traffic. We also share such identifiers and other information from your device with our social media, advertising and analytics partners. <![CDATA[<p><a href="http://www.google.com/intl/en/policies/privacy/partners/">See details</a><p>]]></string>
+    <string name="cookiescl">Close message</string>
+
+</resources>

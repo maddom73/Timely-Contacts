@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:stretchColumns="*">
+	<TableRow
+	    android:layout_marginTop="20sp">
+		<ImageView 
+	    	android:layout_width="wrap_content"
+	    	android:layout_height="wrap_content" 
+	    	android:src="@drawable/cube"
+	    	android:contentDescription="@string/descim"
+	    	android:layout_gravity="start|center"/>
+		<TextView
+			android:id="@+id/info_text"
+			android:gravity="center"
+			android:layout_gravity="center"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" />
+	</TableRow>
+	<TableRow>
+		<TextView
+			android:id="@+id/legal_text"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:textSize="12sp"
+			android:textStyle="italic"
+			android:layout_span="2"
+			android:layout_margin="6sp"
+			/>
+	</TableRow>
+</TableLayout>

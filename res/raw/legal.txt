@@ -1,0 +1,15 @@
+All rights reserved. Timely Contacts takes the groups 
+from your phone and shows them on a sorted list. You can put 
+on a view pager till three groups in order to have them under 
+control. The groups My Contacts has also been filtered in 
+order to show only the contacts having one phone number at 
+least. You can also set automatic phone call feature with a refresh 
+rate you can choose from 5,10,30 minutes , 1 or 3 hours. 
+You can also enable automatic sms feature (you must have 
+enabled automatic phone call); it sends a message after 5 
+not answered phone call. For both of the features the costs 
+depend on your carrier. 
+In no event shall we be liable for any costs or damages 
+(including, without limitation, lost profits, business
+interruption, or lost information) rising out of 'Authorized 
+Users' use of or inability to use the SOFTWARE PRODUCT.

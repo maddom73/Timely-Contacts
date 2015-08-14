@@ -1,0 +1,17 @@
+Tutti i diritti riservati. Timely Contacts prende i 
+gruppi che hai impostati sul tuo telefono e li ordina in 
+una lista. Si possono impostare in un view pager tre gruppi per 
+volta in modo tale da averli sotto controllo e poter telefonare 
+agevolmente con un solo click. Il gruppo My Contacts che contiene tutti i 
+contatti viene opportunamente filtrato e mostra soltanto quelli con 
+almeno un numero telefonico. Due funzioni particolarmente interessanti sono 
+la chiamata e l'sms automatici. La prima imposta la richiamata ad una 
+frequenza di 5,10,30 minuti , 1 o 3 ore. L'sms automatico (la funzione 
+necessita di avere abilitata la chiamata automatica) invece dopo 5 chiamate 
+risposte invia un sms di avviso di chiamata. In tutti e due i casi i costi 
+dipendono dall'operatore telefonico.
+In nessun caso possiamo essere ritenuti
+responsabile per eventuali costi o danni (inclusi, senza limitazione, 
+perdita di profitti, interruzione dell'attività o perdita di 
+informazioni) derivanti dall'uso o dall'impossibilità di 
+utilizzare il PRODOTTO SOFTWARE. 

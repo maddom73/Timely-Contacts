@@ -1,0 +1,69 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/default_color"
+    android:baselineAligned="false"
+    android:gravity="top"
+    android:orientation="vertical"
+    tools:context="com.tuxmind.timelyfcontacts.ui.SelectDialogActivity" >
+
+    <TextView
+        android:id="@+id/editText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20sp"
+        android:ems="10"
+        android:padding="10dp"
+        android:text="@string/frequency"
+        android:textSize="30sp" >
+    </TextView>
+
+    <RadioGroup
+        android:id="@+id/radiogroup"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:padding="20dp" >
+
+        <requestFocus />
+
+        <RadioButton
+            android:id="@+id/option1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/_5_minutes"
+            android:textSize="25sp" />
+
+        <RadioButton
+            android:id="@+id/option2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/_10_minutes"
+            android:textSize="25sp" />
+
+        <RadioButton
+            android:id="@+id/option3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/_30_minutes"
+            android:textSize="25sp" />
+
+        <RadioButton
+            android:id="@+id/option4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/_1_hour"
+            android:textSize="25sp" />
+
+        <RadioButton
+            android:id="@+id/option5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/_3_hours"
+            android:textSize="25sp" />
+    </RadioGroup>
+
+</LinearLayout>
